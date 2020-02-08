@@ -14,7 +14,7 @@ A Mailgun transport for [winston][0].
 
 ``` bash
   $ npm install winston
-  $ npm install winston-mailgun
+  $ npm install winston-mailgun (Not ready on NPM)
 ```
 
 There are a few required options for logging to Papertrail:
